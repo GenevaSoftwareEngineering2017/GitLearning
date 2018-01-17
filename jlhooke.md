@@ -1,3 +1,1 @@
 Jesse Hooke
-C#
-C++
