@@ -1,0 +1,8 @@
+C
+C++
+C#
+SQL
+PHP
+HTML
+Java Script
+Python
